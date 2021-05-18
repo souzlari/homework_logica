@@ -3,9 +3,9 @@
 //- Se a media for maior e igual a cinco e menor que 7 - Recuperação
 //- Se a media for menor que 5 - Reprovado
 
-const numero1 = 8;
-const numero2 = 10;
-const numero3 = 7;
+let numero1 = 8;
+let numero2 = 10;
+let numero3 = 7;
 
 let media = (numero1 + numero2 + numero3) / 3;
 console.log (media)

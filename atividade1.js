@@ -4,6 +4,6 @@ let custo = 1000
 
 const desconto = custo * (25/100)
 
-const compra = custo - desconto
+let compra = custo - desconto
 
 console.log (desconto, compra)
