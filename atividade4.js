@@ -3,5 +3,5 @@
 let distancia = 1000
 let dias = 10
 
-let preço = dias * 60 + distancia * 0.15
+let preço = (dias * 60) + (distancia * 0.15)
 console.log(preço)
