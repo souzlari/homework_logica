@@ -1,29 +1,25 @@
 // 6 - Elabore um algoritmo que receba um número (1-7) e devolva o dia da semana correspondente.
 
-let entrada = 3;
+//opção 1
+
+let entrada = 17;
 
 if (entrada === 1) {
   console.log("Bom domingo!");
-}
-else if (entrada === 2) {
+} else if (entrada === 2) {
   console.log("Boa segunda-feira!");
-}
-else if (entrada === 3) {
+} else if (entrada === 3) {
   console.log("Boa terça-feira!");
-}
-else if (entrada === 4) {
+} else if (entrada === 4) {
   console.log("Boa quarta-feira!");
-}
-else if (entrada === 5) {
+} else if (entrada === 5) {
   console.log("Boa quinta-feira!");
-}
-else if (entrada === 6) {
+} else if (entrada === 6) {
   console.log("Boa sexta-feira!");
-}
-else if (entrada === 7) {
+} else if (entrada === 7) {
   console.log("Bom sábado!");
 } else {
-  console.log ("ERROR 404")
+  console.log("ERROR 404");
 }
 
 //opção 2

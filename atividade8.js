@@ -1,11 +1,11 @@
-//   8 - Crie um algoritmo que receba três notas de um aluno, calcule sua média e mostre as seguintes mensagens de acordo com cada situação:
+// 8 - Crie um algoritmo que receba três notas de um aluno, calcule sua média e mostre as seguintes mensagens de acordo com cada situação:
 //- Se a media for igual ou maior que 7 - Aprovado
 //- Se a media for maior e igual a cinco e menor que 7 - Recuperação
 //- Se a media for menor que 5 - Reprovado
 
-let numero1 = 8;
-let numero2 = 10;
-let numero3 = 7;
+let numero1 = 6;
+let numero2 = 3;
+let numero3 = 5;
 
 let media = (numero1 + numero2 + numero3) / 3;
 console.log(media);
