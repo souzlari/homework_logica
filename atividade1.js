@@ -2,7 +2,7 @@
 
 let custo = 1000;
 
-const desconto = custo * (25 / 100);
+const desconto = custo * (20 / 100);
 
 let compra = custo - desconto;
 
